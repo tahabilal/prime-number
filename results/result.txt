@@ -1,0 +1,42 @@
+Finding # of prime numbers: 100
+Total time for dividing all numbers:          0,0010 seconds    --    # of comparisons: 50068
+Total time for dividing half of  numbers:     0,0000 seconds    --    # of comparisons: 25839
+Total time for dividing root of numbers:      0,0000 seconds    --    # of comparisons: 4770
+****  Prime Number List  ****
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 
+73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 
+179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 
+283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 
+419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541]
+
+Finding # of prime numbers: 20
+Total time for dividing all numbers:          0,0010 seconds    --    # of comparisons: 1374
+Total time for dividing half of  numbers:     0,0000 seconds    --    # of comparisons: 719
+Total time for dividing root of numbers:      0,0000 seconds    --    # of comparisons: 322
+****  Prime Number List  ****
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71]
+
+Finding # of prime numbers: 10
+Total time for dividing all numbers:          0,0010 seconds    --    # of comparisons: 278
+Total time for dividing half of  numbers:     0,0000 seconds    --    # of comparisons: 143
+Total time for dividing root of numbers:      0,0000 seconds    --    # of comparisons: 94
+
+Finding # of prime numbers: 15
+Total time for dividing all numbers:          0,0010 seconds    --    # of comparisons: 699
+Total time for dividing half of  numbers:     0,0000 seconds    --    # of comparisons: 360
+Total time for dividing root of numbers:      0,0000 seconds    --    # of comparisons: 185
+****  Prime Number List  ****
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
+
+Finding # of prime numbers: 15
+Total time for dividing all numbers:          0,0010 seconds    --    # of comparisons: 699
+Total time for dividing half of  numbers:     0,0000 seconds    --    # of comparisons: 360
+Total time for dividing root of numbers:      0,0000 seconds    --    # of comparisons: 185
+
+Finding # of prime numbers: 17
+Total time for dividing all numbers:          0,0010 seconds    --    # of comparisons: 957
+Total time for dividing half of  numbers:     0,0000 seconds    --    # of comparisons: 504
+Total time for dividing root of numbers:      0,0000 seconds    --    # of comparisons: 251
+****  Prime Number List  ****
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59]
+
