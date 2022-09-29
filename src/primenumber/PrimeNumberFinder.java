@@ -42,7 +42,7 @@ public class PrimeNumberFinder {
             if (i == 2 || i == 3 || i == 5) {
                 primeNumbers++;
             }
-            for (j = 2; j < i / 2; j++) {
+            for (j = 2; j <= i / 2; j++) {
                 divideHalfOfElementsNumberOfComparisons++;
                 if (i % j == 0) break;
                 divideHalfOfElementsNumberOfComparisons++;
